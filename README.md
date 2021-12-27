@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Chris MV (@a-tiny-flame)
+# 👋 Hi, I’m Chris MV (@a-tiny-developer)
 - 💜 Coding to live.
 - 🌱 I'm learning about Software Development and Machine Learning.
 - 🦾 In fact a Mechatronic Engineer.

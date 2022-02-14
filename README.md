@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Chris MV (@a-tiny-developer) ES/ENG
 - 💜 Coding for live.
-- 🌱 Software Development and Machine Learning.
+- 🌱 Software Development.
 ## Developing with:
 -🦀 Rust
-
 -💙 Flutter

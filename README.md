@@ -2,6 +2,5 @@
 - 💜 Coding for live.
 - 🌱 Software Development.
 ## Developing with:
--🦀 Rust
-
--💙 Flutter
+- 🦀 Rust
+- 💙 Flutter

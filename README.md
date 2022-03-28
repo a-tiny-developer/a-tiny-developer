@@ -3,6 +3,6 @@
 - 🌱 Software Development and Machine Learning
 
 ## Developing with:
-- 💙 Flutter
+- 💙 Flutter & Dart
 - 🦀 Rust
 - 🐍 Python
